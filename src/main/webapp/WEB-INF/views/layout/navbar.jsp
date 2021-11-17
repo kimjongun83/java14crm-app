@@ -13,7 +13,7 @@
                 <ul class="nav navbar-nav flex">
                     <li class="nav-item">
                         <a class="nav-link active" href="dashboard.html">
-                            Home</a>
+                            Hello</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
