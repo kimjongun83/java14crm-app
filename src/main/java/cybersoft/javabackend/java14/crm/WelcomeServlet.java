@@ -13,5 +13,6 @@ public class WelcomeServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		resp.getWriter().append("Welcome to CRM Application.");
+		resp.getWriter().append("Commit to GITHUB.");
 	}
 }
